@@ -19,15 +19,27 @@
 
 ---
 
-## 🛠️ Languages & Technologies
+## 💻 Languages & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,bootstrap" />
 </p>
 
-## ⚙️ Tools I Use
+## 🗄️ Database
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,dotnet" />
+</p>
+
+## 🧰 Tools & Platforms
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
 </p>
 
