@@ -32,16 +32,10 @@
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omughareja&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omughareja&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omughareja&theme=tokyonight" width="60%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=omughareja&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 ---
