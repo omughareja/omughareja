@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Om Ughareja</h1>
 
-<!--
-**omughareja/omughareja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Computer Science Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+learning+new+technologies;Building+projects+%26+improving+my+skills;Turning+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🎓 I'm a Computer Science student.
+* 🌱 Currently learning **Web Development & Programming**
+* 💡 Interested in software development and technology.
+* 🚀 Exploring new tools and building projects.
+* 🎯 My goal is to become a skilled software developer.
+* 📫 Reach me at: **[Add your email here]**
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,bootstrap" />
+</p>
+
+## ⚙️ Tools I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omughareja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omughareja&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omughareja&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/omughareja">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
+  
